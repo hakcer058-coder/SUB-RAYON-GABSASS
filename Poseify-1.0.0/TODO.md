@@ -1,0 +1,15 @@
+- [x] Update index.html: Change "Download Now" to "DONASI" and add modal trigger
+- [x] Add donation modal to index.html
+- [x] Update about.html: Change "Download Now" to "DONASI" and add modal trigger
+- [x] Add donation modal to about.html
+- [x] Update service.html: Change "Download Now" to "DONASI" and add modal trigger
+- [x] Add donation modal to service.html
+- [x] Update team.html: Change "Download Now" to "DONASI" and add modal trigger
+- [x] Add donation modal to team.html
+- [x] Update testimonial.html: Change "Download Now" to "DONASI" and add modal trigger
+- [x] Add donation modal to testimonial.html
+- [x] Update contact.html: Change "Download Now" to "DONASI" and add modal trigger
+- [x] Add donation modal to contact.html
+- [x] Update 404.html: Change "Download Now" to "DONASI" and add modal trigger
+- [x] Add donation modal to 404.html
+- [x] Test by opening index.html in browser
